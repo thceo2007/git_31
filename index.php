@@ -8,5 +8,6 @@
 <body>
 <h1>Versionamenato com GIT/GITHUB</h1>
 <h2>Aula 11/09</h2>
+<p>Executando git commit</p>
 </body>
-</html>f
+</html>
